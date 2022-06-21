@@ -1,0 +1,60 @@
+ul li{
+    display: inline-block;
+    color: white;
+    padding: 0 50px;
+}
+header{
+    background-color: rgb(59, 59, 59);
+    height: 150px;
+}
+nav{
+    padding-top: 50px;
+}
+.list-item{
+    padding-left: 400px;
+}
+h1{
+    text-align: center;
+}
+.chap{
+    float: left;
+
+}
+.ung{
+    float: right;
+}
+.suzlar{
+    padding-right: 200px;
+    text-align: center;
+}
+img{
+    padding-left: 200px;
+}
+.button{
+    height: 35px;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+footer{
+    background-color: #262322;
+    height: 15                    0px;
+}
+main{
+    height: 600px;
+}
+footer h1 {
+    color: white;
+    padding-top: 10px;
+}
+.xammasi{
+    padding-top: 100px;
+}
+.tugmacha{
+    margin-left: 600px;
+}
